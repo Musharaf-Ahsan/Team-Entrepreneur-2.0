@@ -424,8 +424,11 @@ plt.show()
 
 
 # **Conclusion**
-The world is releasing bulk amount of gas in atmosphere, so we need to take care of our atmospher and because it has already caused global warming as well that is current issue of the world.
+Final results of this analysis shows that the region with high emission rate of CO2 all over the world is China and if we focus on year wise results the era of last decade from 2010-2019 the emission rate is maximum and increasing continuously. After that we focus on some asian countries include *Pakistan*, *India* and *Bangladesh*. In these three countries *India* is at the top with maximum emission rate, *Pakistan* at second with very low rate of emission as compared to india and *Bangladesh* at third position with lowest emission rate of CO2.
+
+# **Sugestions**
+The world is releasing bulk amount of gas in atmosphere, so we need to take care of our atmosphere and because it has already caused global warming as well that is current issue of the world.
 We have records of different courtiers and according to that, we may at least give them a warning or so to stop huge bulk of emission, do it but just some restrictions or we going to loss this world
-You can take recent years data and try to use different samples and different techniques. Change your perception about the comparison methodology
+You can take recent years data and try to use different samples and different techniques. Change your perception about the comparison methodology.
 
 
